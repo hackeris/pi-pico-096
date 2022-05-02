@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
 include(pico_sdk_import.cmake)
-project(Pico_ePaper_Code)
+project(pi_pico_096_lcd)
 pico_sdk_init()
 
 #添加编译子目录
